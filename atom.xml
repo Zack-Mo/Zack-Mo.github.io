@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zack-mo.github.io</id>
     <title>西乡侯府</title>
-    <updated>2020-02-14T02:26:48.304Z</updated>
+    <updated>2020-02-14T02:51:11.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zack-mo.github.io"/>
     <link rel="self" href="https://zack-mo.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>李老君乃开天辟地之祖，尚居于三清之右。佛如来为创教治世之尊，还坐在大鹏之下。</subtitle>
     <logo>https://zack-mo.github.io/images/avatar.png</logo>
     <icon>https://zack-mo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 西乡侯府</rights>
